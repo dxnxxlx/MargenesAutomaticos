@@ -1,0 +1,22 @@
+div.left{
+	border: 12px solid #ffff1a;
+	padding: 40px;
+	padding-top: 20px;
+	height: 180px;
+	width: 180px;
+	text-align: center;
+	margin:  0px, 20px, 0px, 150px auto;
+	font-size: 15px;
+}
+
+div.center{
+	border: 12px solid #ffff1a;
+	padding: 40px;
+	padding-top: 20px;
+	height: 180px;
+	width: 180px;
+	text-align: left;
+	margin: auto;
+	font-size: 15px;
+	 
+}
